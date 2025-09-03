@@ -151,53 +151,53 @@
   },
   {
     "id": 16,
-    "name": "Lahari, Gorre Ram",
-    "supervisor": "Srikanth",
-    "department": "IM",
-    "nps": 70.18,
-    "nrpc": 14.21,
+    "name": "Akanacheti Anil",
+    "supervisor": "Sangeeta Bhuyan",
+    "department": "INTL Chat HV",
+    "nps": 73.13,
+    "nrpc": 64.16,
     "refundPercent": 0,
-    "totalTickets": 11
+    "totalTickets": 5
   },
   {
     "id": 17,
-    "name": "Uday Krishna, Kondameedi",
-    "supervisor": "Atree",
-    "department": "IM",
-    "nps": 96.30,
-    "nrpc": 6.36,
-    "refundPercent": 4,
-    "totalTickets": 10
+    "name": "Javvaji Manikumar Reddy",
+    "supervisor": "Jose Sanjo",
+    "department": "INTL Chat HV",
+    "nps": 66.94,
+    "nrpc": 47.60,
+    "refundPercent": 1,
+    "totalTickets": 5
   },
   {
     "id": 18,
-    "name": "Akhila, Bhukya",
-    "supervisor": "Srikanth",
-    "department": "IM",
-    "nps": 72.97,
-    "nrpc": 11.35,
-    "refundPercent": 6,
-    "totalTickets": 9
+    "name": "Akhila Boda",
+    "supervisor": "Jose Sanjo",
+    "department": "INTL Chat HV",
+    "nps": 80.00,
+    "nrpc": 51.98,
+    "refundPercent": 0,
+    "totalTickets": 5
   },
   {
     "id": 19,
-    "name": "Raj, Arrapedhi Tharun",
-    "supervisor": "Prashanth G",
-    "department": "IM",
-    "nps": 78.49,
-    "nrpc": 10.63,
+    "name": "Pawar Swathi",
+    "supervisor": "Sangeeta Bhuyan",
+    "department": "INTL Chat HV",
+    "nps": 77.50,
+    "nrpc": 121.37,
     "refundPercent": 0,
-    "totalTickets": 7
+    "totalTickets": 5
   },
   {
     "id": 20,
-    "name": "Kounain, Shaheera",
-    "supervisor": "Prashanth G",
-    "department": "IM",
-    "nps": 72.73,
-    "nrpc": 6.45,
-    "refundPercent": 0,
-    "totalTickets": 6
+    "name": "Halli Santhosh",
+    "supervisor": "Sangeeta Bhuyan",
+    "department": "INTL Chat HV",
+    "nps": 65.18,
+    "nrpc": 49.27,
+    "refundPercent": 2,
+    "totalTickets": 5
   },
   {
     "id": 21,
