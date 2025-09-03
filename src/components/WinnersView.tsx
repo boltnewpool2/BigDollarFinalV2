@@ -1,8 +1,9 @@
 import React, { useMemo } from 'react';
-import { Trophy, Calendar, User, Award, Percent, Ticket, TrendingUp, Sparkles, Trash2, Gift } from 'lucide-react';
+import { Trophy, Calendar, User, Award, Percent, Ticket, TrendingUp, Sparkles, Trash2, Gift, Download } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { useWinners } from '../hooks/useWinners';
 import { prizeCategories } from '../data/prizeCategories';
+import { exportWinnersToExcel } from '../utils/excelExport';
 
 export const WinnersView: React.FC = () => {
   const { winners, loading, purgeWinners } = useWinners();
@@ -25,6 +26,21 @@ export const WinnersView: React.FC = () => {
         console.error('Failed to purge winners:', error);
         alert('Failed to purge winners. Please try again.');
       }
+    }
+  };
+
+  const handleExportToExcel = () => {
+    if (winners.length === 0) {
+      alert('No winners data to export!');
+      return;
+    }
+
+    try {
+      const exportResult = exportWinnersToExcel(winners);
+      alert(`✅ Excel file exported successfully!\n\nFile: ${exportResult.filename}\nRecords: ${exportResult.recordCount}\nExported: ${exportResult.exportDate}`);
+    } catch (error) {
+      console.error('Failed to export Excel file:', error);
+      alert('❌ Failed to export Excel file. Please try again.');
     }
   };
 
@@ -77,6 +93,15 @@ export const WinnersView: React.FC = () => {
           </div>
           <div className="flex items-center gap-4">
             {winners.length > 0 && (
+              <>
+                <button
+                  onClick={handleExportToExcel}
+                  className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-green-500 to-emerald-600 text-white rounded-full font-semibold hover:from-green-600 hover:to-emerald-700 focus:ring-4 focus:ring-green-500/50 transition-all duration-300 shadow-lg transform hover:scale-105"
+                >
+                  <Download className="w-5 h-5 mr-2" />
+                  Export to Excel
+                </button>
+                
               <button
                 onClick={handlePurgeWinners}
                 className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-red-500 to-pink-600 text-white rounded-full font-semibold hover:from-red-600 hover:to-pink-700 focus:ring-4 focus:ring-red-500/50 transition-all duration-300 shadow-lg transform hover:scale-105"
@@ -84,6 +109,7 @@ export const WinnersView: React.FC = () => {
                 <Trash2 className="w-5 h-5 mr-2" />
                 Purge All Winners
               </button>
+              </>
             )}
             <motion.div
               animate={{ 
