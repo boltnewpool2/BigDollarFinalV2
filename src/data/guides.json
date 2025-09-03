@@ -101,53 +101,53 @@
   },
   {
     "id": 11,
-    "name": "Deepthi, Mosam",
-    "supervisor": "Srikanth",
-    "department": "IM",
-    "nps": 65.38,
-    "nrpc": 8.96,
-    "refundPercent": 1,
-    "totalTickets": 15
+    "name": "Chandu Kumar",
+    "supervisor": "Jose Sanjo",
+    "department": "INTL Chat HV",
+    "nps": 68.24,
+    "nrpc": 107.24,
+    "refundPercent": 0,
+    "totalTickets": 7
   },
   {
     "id": 12,
-    "name": "Divya, Rayapuram",
-    "supervisor": "Srikanth",
-    "department": "IM",
-    "nps": 73.53,
-    "nrpc": 11.11,
+    "name": "Mohmmad Uddin",
+    "supervisor": "Sangeeta Bhuyan",
+    "department": "INTL Chat HV",
+    "nps": 76.42,
+    "nrpc": 42.03,
     "refundPercent": 0,
-    "totalTickets": 14
+    "totalTickets": 6
   },
   {
     "id": 13,
-    "name": "Harshith, Kotra",
-    "supervisor": "Shanthi",
-    "department": "IM",
-    "nps": 84.95,
-    "nrpc": 6.50,
+    "name": "Jadhav Sushanth",
+    "supervisor": "Jose Sanjo",
+    "department": "INTL Chat HV",
+    "nps": 74.63,
+    "nrpc": 79.85,
     "refundPercent": 0,
-    "totalTickets": 13
+    "totalTickets": 5
   },
   {
     "id": 14,
-    "name": "NAVEENA, PITTALA",
-    "supervisor": "Srikanth",
-    "department": "IM",
-    "nps": 73.33,
-    "nrpc": 6.75,
+    "name": "Satya Kandi",
+    "supervisor": "Jose Sanjo",
+    "department": "INTL Chat HV",
+    "nps": 72.07,
+    "nrpc": 109.92,
     "refundPercent": 0,
-    "totalTickets": 13
+    "totalTickets": 5
   },
   {
     "id": 15,
-    "name": "Srija, Bethi",
-    "supervisor": "Atree",
-    "department": "IM",
-    "nps": 75.00,
-    "nrpc": 6.29,
-    "refundPercent": 2,
-    "totalTickets": 12
+    "name": "Punnala Mallikarjun",
+    "supervisor": "Jose Sanjo",
+    "department": "INTL Chat HV",
+    "nps": 81.69,
+    "nrpc": 52.38,
+    "refundPercent": 0,
+    "totalTickets": 5
   },
   {
     "id": 16,
