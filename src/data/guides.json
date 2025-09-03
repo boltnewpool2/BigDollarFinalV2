@@ -1180,63 +1180,203 @@
     "totalTickets": 8
   },
   {
-    "id": 120,
-    "name": "Shaik Asma",
+    "id": 121,
+    "name": "Shaik Rafathunnisa",
     "supervisor": "Palem Chandrasekhar",
     "department": "INTL Chat General",
-    "nps": 75.00,
-    "nrpc": 14.34,
+    "nps": 71.43,
+    "nrpc": 19.71,
     "refundPercent": 0,
-    "totalTickets": 8
-  },
-  {
-    "id": 121,
-    "name": "Sai Nagabelly Arun",
-    "supervisor": "Kumar Belde Anish",
-    "department": "ROW",
-    "nps": 69.33,
-    "nrpc": 10.09,
-    "refundPercent": 2,
-    "totalTickets": 10
+    "totalTickets": 7
   },
   {
     "id": 122,
-    "name": "Poojitha Samudrala",
-    "supervisor": "Kumar Belde Anish",
-    "department": "ROW",
-    "nps": 73.47,
-    "nrpc": 30.79,
-    "refundPercent": 4,
-    "totalTickets": 9
+    "name": "Busa Swapna",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 71.43,
+    "nrpc": 26.76,
+    "refundPercent": 0,
+    "totalTickets": 7
   },
   {
     "id": 123,
-    "name": "Kumar Cheruku Ajay",
-    "supervisor": "Sangeetha Mokirala",
-    "department": "ROW",
-    "nps": 68.09,
-    "nrpc": 10.22,
-    "refundPercent": 7,
-    "totalTickets": 8
+    "name": "Sanapala Sandeep",
+    "supervisor": "Palem Chandrasekhar",
+    "department": "INTL Chat General",
+    "nps": 57.14,
+    "nrpc": 20.98,
+    "refundPercent": 0,
+    "totalTickets": 7
   },
   {
     "id": 124,
-    "name": "Kumar Palla Rithish",
-    "supervisor": "Kumar Belde Anish",
-    "department": "ROW",
-    "nps": 74.32,
-    "nrpc": 19.71,
-    "refundPercent": 67,
+    "name": "Shaik Mastanvali",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 85.71,
+    "nrpc": 17.80,
+    "refundPercent": 0,
     "totalTickets": 7
   },
   {
     "id": 125,
-    "name": "Raviteja Sayiri Sai",
-    "supervisor": "Kumar Belde Anish",
-    "department": "ROW",
-    "nps": 70.67,
-    "nrpc": 6.79,
+    "name": "Pulugurtha Sirisha",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 100.00,
+    "nrpc": 20.76,
     "refundPercent": 0,
     "totalTickets": 6
+  },
+  {
+    "id": 126,
+    "name": "Saidaraboina Srikanth",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 100.00,
+    "nrpc": 21.00,
+    "refundPercent": 0,
+    "totalTickets": 6
+  },
+  {
+    "id": 127,
+    "name": "Rajesh Naga Durga",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 83.33,
+    "nrpc": 19.40,
+    "refundPercent": 0,
+    "totalTickets": 6
+  },
+  {
+    "id": 128,
+    "name": "Padala Devi",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 66.67,
+    "nrpc": 22.32,
+    "refundPercent": 0,
+    "totalTickets": 6
+  },
+  {
+    "id": 129,
+    "name": "Malyala Anusha",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 66.67,
+    "nrpc": 21.10,
+    "refundPercent": 0,
+    "totalTickets": 6
+  },
+  {
+    "id": 130,
+    "name": "Shaik Karimun",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 66.67,
+    "nrpc": 18.42,
+    "refundPercent": 0,
+    "totalTickets": 6
+  },
+  {
+    "id": 131,
+    "name": "Shaik Saba",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 50.00,
+    "nrpc": 16.56,
+    "refundPercent": 0,
+    "totalTickets": 6
+  },
+  {
+    "id": 132,
+    "name": "Jahangeer Shaik",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 100.00,
+    "nrpc": 25.22,
+    "refundPercent": 0,
+    "totalTickets": 5
+  },
+  {
+    "id": 133,
+    "name": "Shaik Noorjahan",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 60.00,
+    "nrpc": 21.88,
+    "refundPercent": 0,
+    "totalTickets": 5
+  },
+  {
+    "id": 134,
+    "name": "Shaik Shabana",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 80.00,
+    "nrpc": 21.30,
+    "refundPercent": 0,
+    "totalTickets": 5
+  },
+  {
+    "id": 135,
+    "name": "Muppaneni Hema",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 80.00,
+    "nrpc": 22.66,
+    "refundPercent": 0,
+    "totalTickets": 5
+  },
+  {
+    "id": 136,
+    "name": "Vasarla Bhavani",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 80.00,
+    "nrpc": 19.62,
+    "refundPercent": 0,
+    "totalTickets": 5
+  },
+  {
+    "id": 137,
+    "name": "Chodisetty Bhavana",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 80.00,
+    "nrpc": 22.84,
+    "refundPercent": 0,
+    "totalTickets": 5
+  },
+  {
+    "id": 138,
+    "name": "Shaik Naushad",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 80.00,
+    "nrpc": 23.04,
+    "refundPercent": 0,
+    "totalTickets": 5
+  },
+  {
+    "id": 139,
+    "name": "Shaik Anjum",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 80.00,
+    "nrpc": 18.64,
+    "refundPercent": 0,
+    "totalTickets": 5
+  },
+  {
+    "id": 140,
+    "name": "Mohammad Khaja",
+    "supervisor": "Gottemukkula Prashanth Chary",
+    "department": "INTL Chat General",
+    "nps": 80.00,
+    "nrpc": 19.16,
+    "refundPercent": 0,
+    "totalTickets": 5
   }
 ]
